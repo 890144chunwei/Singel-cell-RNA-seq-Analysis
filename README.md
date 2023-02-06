@@ -4,12 +4,17 @@ The pipeline aims to streamline processing raw fastq files from 10X platfrom fro
 
 Part I. cellranger (Bash)
 -----
-
+- [Cell Ranger]():
 
 
 
 Part II. Clustering and differnetial analysis (R)
 -----
-
-
-
+- [SingleCellExperiment]()
+- [Seurat]
+- [scater](https://github.com/jimhester/scater): Single cell data pre-processing before downstream analysis
+- [scuttle]
+- [scran]
+- [celldex]
+- [SingleR]
+- [edgeR]
