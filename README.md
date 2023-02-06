@@ -12,9 +12,9 @@ Part II. Clustering and differnetial analysis (R)
 - [Seurat](https://github.com/satijalab/seurat): Toolkit for single cell genomics analysis and figure plotting
 - [scater](https://github.com/jimhester/scater): Single cell data pre-processing before downstream analysis
 - [scuttle](https://rdrr.io/github/LTLA/scuttle/): Sequencing QC, reads normalization, and data transformation
-- [scran]: 
-- [celldex]
-- [SingleR]
-- [edgeR]
+- [scran](https://rdrr.io/bioc/scran/): For cell phase assignment and feature selection of highly variable genes 
+- [celldex](https://rdrr.io/github/LTLA/celldex/): Import hematopoietic cell type assignment refernce profile from ImmGen
+- [SingleR](https://github.com/dviraran/SingleR): Cell type annotation of single cell based on expression profile of the reference data
+- [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html): Differential expression analysis of gene expression profile with biological replicates 
 - [ggplot2](https://github.com/tidyverse/ggplot2): For basic QC plotting
 - [dplyr](https://github.com/tidyverse/dplyr): Organize count data for downstream analysis
