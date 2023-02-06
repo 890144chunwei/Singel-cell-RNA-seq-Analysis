@@ -1,5 +1,4 @@
 install.packages("Seurat")
-install.packages('Matirx')
 install.packages("Matrix")
 install.packages("tidyverse")
 BiocManager::install('SingleCellExperiment')
